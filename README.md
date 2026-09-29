@@ -47,7 +47,7 @@
 </div>
 
 <br/><br/>
-## Technologies
+## Technologies (idk nothing btw, but IA does)
 
 <div align="center">
   
@@ -60,7 +60,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
-                                  idk nothing btw, but IA does 
 
 
 ---
