@@ -50,7 +50,7 @@
 ## Technologies
 
 <div align="center">
-idk nothing btw, but IA does 
+  
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
@@ -60,7 +60,7 @@ idk nothing btw, but IA does
 ![VS Code](https://img.shields.io/badge/VS_Code-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
-
+idk nothing btw, but IA does 
 
 
 ---
