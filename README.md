@@ -20,7 +20,7 @@
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
 <pre>
-• Class     →  Backend / Full-Stack Apprentice
+• Class     →  vibecoder lol
 • Origin    →  Brazil 🇧🇷
 </pre>
 
@@ -50,7 +50,7 @@
 ## Technologies
 
 <div align="center">
-
+idk nothing btw, but IA does 
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
