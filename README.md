@@ -47,7 +47,7 @@
 </div>
 
 <br/><br/>
-## Technologies (idk nothing btw, but IA does)
+## Technologies (idk nothing btw, but AI does)
 
 <div align="center">
   
